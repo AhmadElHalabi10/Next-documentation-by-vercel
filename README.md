@@ -1,2 +1,2 @@
-# Next-documentation-by-vercel
-This simple project is solely for the documentation provided by Vercel.
+# This is a commit.
+# Each line is a file pattern followed by one or more owners.
